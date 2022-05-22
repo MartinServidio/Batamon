@@ -1,4 +1,5 @@
 Batamon
+
 Descripción del problema
 
 Agustín todavía recuerda con muchocariño el primer problema que le tocó enfrentar al participar en su primer cer- tamen de la OIA hace muchísimos años. El problema era (de acuerdo a lo que recuerda Agustín) el siguiente: En un videojuego que va a salir a la venta pronto, llamado Batamon (Nombre obtenido al mezclar las palabras “batalla” y “monstruos”), la protagonista comanda un ejército de N monstruos, que deberán luchar contra los N monstruos del rival. Estas batallas se reducen a una serie de N enfrentamientos de tipo “uno contra uno”, en los que uno de los monstruos de la protagonista lucha contra uno de los monstruos del rival. Hay así N enfrentamientos, y cada monstruo participa en exactamente uno de estos enfrentamientos. Además, todos los monstruos tienen un cierto nivel de poder, que en el juego se indica con un entero positivo.
