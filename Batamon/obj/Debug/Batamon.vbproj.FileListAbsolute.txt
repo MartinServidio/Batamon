@@ -1,0 +1,33 @@
+C:\Users\sec200903_0101\Downloads\Batamon\Batamon\bin\Debug\Batamon.exe.config
+C:\Users\sec200903_0101\Downloads\Batamon\Batamon\bin\Debug\Batamon.exe
+C:\Users\sec200903_0101\Downloads\Batamon\Batamon\bin\Debug\Batamon.pdb
+C:\Users\sec200903_0101\Downloads\Batamon\Batamon\bin\Debug\Batamon.xml
+C:\Users\sec200903_0101\Downloads\Batamon\Batamon\obj\Debug\Batamon.vbprojAssemblyReference.cache
+C:\Users\sec200903_0101\Downloads\Batamon\Batamon\obj\Debug\Batamon.Resources.resources
+C:\Users\sec200903_0101\Downloads\Batamon\Batamon\obj\Debug\Batamon.vbproj.GenerateResource.cache
+C:\Users\sec200903_0101\Downloads\Batamon\Batamon\obj\Debug\Batamon.vbproj.CoreCompileInputs.cache
+C:\Users\sec200903_0101\Downloads\Batamon\Batamon\obj\Debug\Batamon.exe
+C:\Users\sec200903_0101\Downloads\Batamon\Batamon\obj\Debug\Batamon.xml
+C:\Users\sec200903_0101\Downloads\Batamon\Batamon\obj\Debug\Batamon.pdb
+C:\Users\sec200903_0101\Desktop\Batamon Martin Servidio 6º6º\Batamon\bin\Debug\Batamon.exe.config
+C:\Users\sec200903_0101\Desktop\Batamon Martin Servidio 6º6º\Batamon\bin\Debug\Batamon.exe
+C:\Users\sec200903_0101\Desktop\Batamon Martin Servidio 6º6º\Batamon\bin\Debug\Batamon.pdb
+C:\Users\sec200903_0101\Desktop\Batamon Martin Servidio 6º6º\Batamon\bin\Debug\Batamon.xml
+C:\Users\sec200903_0101\Desktop\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.vbprojAssemblyReference.cache
+C:\Users\sec200903_0101\Desktop\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.Resources.resources
+C:\Users\sec200903_0101\Desktop\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.vbproj.GenerateResource.cache
+C:\Users\sec200903_0101\Desktop\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.vbproj.CoreCompileInputs.cache
+C:\Users\sec200903_0101\Desktop\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.exe
+C:\Users\sec200903_0101\Desktop\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.xml
+C:\Users\sec200903_0101\Desktop\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.pdb
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Batamon Martin Servidio 6º6º\Batamon\bin\Debug\Batamon.exe.config
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Batamon Martin Servidio 6º6º\Batamon\bin\Debug\Batamon.exe
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Batamon Martin Servidio 6º6º\Batamon\bin\Debug\Batamon.pdb
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Batamon Martin Servidio 6º6º\Batamon\bin\Debug\Batamon.xml
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.vbprojAssemblyReference.cache
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.Resources.resources
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.vbproj.GenerateResource.cache
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.vbproj.CoreCompileInputs.cache
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.exe
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.xml
+C:\Users\sec200903_0101\Desktop\Tareas 2022\Redes\Batamon Martin Servidio 6º6º\Batamon\obj\Debug\Batamon.pdb
